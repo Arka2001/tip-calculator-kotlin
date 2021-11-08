@@ -22,3 +22,4 @@ What this app does is the following:-
 ### Future Ideas
 
 - Improve on the UI of the entire App
+- Add Comments to increase readability
