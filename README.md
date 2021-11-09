@@ -13,7 +13,17 @@ What this app does is the following:-
 
 | Page | Image |
 | ---- | ----- |
-| <h3>Calculator Page</h3> | <img src="./readme_assets/calculator_screen.jpeg" width="350" height="750"> |
+| <h3>Original UI</h3> | <img src="./readme_assets/calculator_screen.jpeg" width="350" height="750"> |
+| <h3>Light Theme UI</h3> | <img src="./readme_assets/light_theme_screen.jpeg" width="350" height="750"> |
+| <h3>Dark Theme UI</h3> | <img src="./readme_assets/dark_theme_screen.jpeg" width="350" height="750"> |
+
+<br>
+<hr>
+<br>
+
+### Latest Updates
+
+- Improved the UI of the app by providing some contrasting color schemes
 
 <br>
 <hr>
@@ -21,5 +31,4 @@ What this app does is the following:-
 
 ### Future Ideas
 
-- Improve on the UI of the entire App
 - Add Comments to increase readability
